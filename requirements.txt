@@ -1,0 +1,6 @@
+python-dotenv
+aiogram==2.5
+openai==0.28.1
+pandas
+numpy
+seaborn
